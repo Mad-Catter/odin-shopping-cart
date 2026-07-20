@@ -1,0 +1,24 @@
+.home h1 {
+	text-align: center;
+	font-size: 4rem;
+	padding: 30px;
+}
+.heroDiv {
+	display: flex;
+}
+.heroText {
+	padding: 0 1%;
+}
+.heroText h2 {
+	font-size: 3rem;
+}
+.heroText p {
+	font-size: 1.25rem;
+}
+
+.heroWrapper {
+	width: 1920px;
+}
+.heroWrapper img {
+	width: 100%;
+}
