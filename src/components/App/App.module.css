@@ -8,6 +8,7 @@
 }
 .heroText {
 	padding: 0 1%;
+	width: 50%;
 }
 .heroText h2 {
 	font-size: 3rem;
@@ -17,7 +18,7 @@
 }
 
 .heroWrapper {
-	width: 1920px;
+	width: 60%;
 }
 .heroWrapper img {
 	width: 100%;
