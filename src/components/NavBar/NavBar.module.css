@@ -1,3 +1,15 @@
+.navBar,
+.navBarGap {
+	height: 50px;
+}
+
+.navBar {
+	position: fixed;
+	z-index: 1;
+	background-color: tan;
+	width: 100%;
+}
+
 .h1test {
 	color: green;
 }
@@ -6,4 +18,9 @@
 	justify-content: space-around;
 	width: 100%;
 	padding: 15px 0;
+}
+
+.testNum {
+	color: red;
+	font-size: 2rem;
 }

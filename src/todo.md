@@ -3,7 +3,14 @@ Shopping cart general scheme:
     Need to navigate through routing
     Test along the way
     Css needs to be in css modules.
-
+Cart {
+    example_ID {
+        productObject: {
+            ...
+        },
+        quantity: 1;
+    }
+}
 Navbar:
     Cart that displays number of active items.
 Testing:
